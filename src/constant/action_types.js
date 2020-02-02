@@ -1,0 +1,5 @@
+export const GET_DATA = 'GET_DATA'
+export const DELETE_DATA = 'DELETE_DATA'
+export const CHANGE_STATUS = 'CHANGE_STATUS'
+export const CREATE_DATA = 'CREATE_DATA'
+export const GET_DATA_UPDATE = 'GET_DATA_UPDATE'
